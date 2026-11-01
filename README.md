@@ -1,4 +1,4 @@
-# 🔍 CafeLeadFinder
+# 🔍 MapLeads
 
 > A desktop tool that finds cafes, restaurants, and local businesses on **Google Maps** and scores them as sales leads — then exports everything to Excel in one click.
 
@@ -30,8 +30,8 @@
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/CafeLeadFinder.git
-cd CafeLeadFinder
+git clone https://github.com/5q6/MapLeads.git
+cd MapLeads
 ```
 
 ### 2. Create and activate a virtual environment *(recommended)*
@@ -82,7 +82,7 @@ python app.py
 ## 📁 Project Structure
 
 ```
-CafeLeadFinder/
+MapLeads/
 ├── app.py              # Entry point — initializes DB and launches GUI
 ├── gui.py              # Tkinter desktop interface
 ├── google_places.py    # Google Places API integration
