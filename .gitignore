@@ -1,0 +1,55 @@
+# === Environment & Secrets ===
+.env
+*.env
+config_local.py
+
+# === Python ===
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# === Virtual Environments ===
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# === Output & Data (personal/sensitive) ===
+output/
+data/
+*.xlsx
+*.csv
+*.db
+*.sqlite
+*.sqlite3
+
+# === IDE & OS ===
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# === Logs ===
+*.log
+logs/
+
+# === Pytest / Testing ===
+.pytest_cache/
+.coverage
+htmlcov/
