@@ -22,6 +22,8 @@
 
 ## 🖥️ Screenshot
 
+![MapLeads GUI](screenshot.png)
+
 > Search → Score → Export. All in a simple desktop GUI.
 
 ---
